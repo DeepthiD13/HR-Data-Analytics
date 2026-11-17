@@ -150,10 +150,10 @@ The remaining missing ExitDate values were preserved based on the existing emplo
 The final dataset is organized, consistent, and ready for further HR data analysis and visualization.
 
 ---
-
 ## Project Details
 
-**Author:** Deepthi D 
-**Project Title:** HR Data Analytics  
-**Domain:** Human Resources Analytics  
+**Author:** Deepthi D.
+**Project Title:** HR Data Analytics
+**Domain:** Human Resources Analytics
 **Technologies:** Python, Pandas, NumPy, Jupyter Notebook
+
