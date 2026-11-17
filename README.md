@@ -153,7 +153,10 @@ The final dataset is organized, consistent, and ready for further HR data analys
 ## Project Details
 
 **Author:** Deepthi D.
+
 **Project Title:** HR Data Analytics
+
 **Domain:** Human Resources Analytics
+
 **Technologies:** Python, Pandas, NumPy, Jupyter Notebook
 
